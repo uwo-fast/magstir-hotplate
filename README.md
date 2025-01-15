@@ -6,7 +6,7 @@ This is under development - check back later for the result!
 
 ## Organization
 
-- Lit revie can be found at: [appropedia.org/Literature_Review_for_Open_Source_Hot_plate_and_Stirrer](https://www.appropedia.org/Literature_Review_for_Open_Source_Hot_plate_and_Stirrer)
+- Lit review can be found at: [appropedia.org/Literature_Review_for_Open_Source_Hot_plate_and_Stirrer](https://www.appropedia.org/Literature_Review_for_Open_Source_Hot_plate_and_Stirrer)
 - The zotero group for the lit review can be found at: [zotero.org/zotero.org/groups/5827095/magstirhotplate](https://www.zotero.org/groups/5827095/magstirhotplate/library)
 - The source files are stored all on GitHub at [github.com/uwo-fast/magstir-hotplate](https://github.com/uwo-fast/magstir-hotplate)
 
