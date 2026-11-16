@@ -34,7 +34,7 @@ Source — the design in its preferred form for modification, meaning the source
 the mesh.
 
 **If the parametric source includes a GPL-licensed library** — NopSCADlib and
-similar — replace both `cad/` rows with a single `GPL-3.0-or-later` covering source,
+similar — replace both `scad/` rows with a single `GPL-3.0-or-later` covering source,
 geometry, drawings and BOM alike, and record the library under
 [Third-party components](#third-party-components). GPL-3.0 is not a Compatible
 Licence under CERN-OHL-S-2.0 §1.2, so the whole-work licensing its §3.3(d) requires
