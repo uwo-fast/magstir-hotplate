@@ -50,3 +50,16 @@ Create a generic, low-cost, open-source magnetic stirrer hot plate for laborator
 ## Outstanding Research Items
 
 - Determining motor torque requirement (motor selection, sigh)
+
+## License
+
+Copyright © 2025–2026 magstir-hotplate and its contributors.
+
+This project is free software: you may redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later version.
+Hardware design files and the outputs generated from them are licensed instead
+under [CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt). See
+[`LICENSING.md`](LICENSING.md) for what applies where, and the organization
+[licensing policy](https://github.com/uwo-fast/.github/blob/main/LICENSING.md) for
+why.
